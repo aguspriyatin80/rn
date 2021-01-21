@@ -1,0 +1,37 @@
+// MEMBUAT PROJECT BARU
+$ react-native init ProjectName
+
+// MEMBUAT NAVIGASI
+$ npm install @react-navigation/native
+// install di directory project
+$ npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+$ npm install @react-navigation/stack
+
+// App.js
+import React from 'react';
+
+import {NavigationContainer} from '@react-navigation/native'; // pindah screen
+import {createStackNavigator} from '@react-navigation/stack'; // ada router
+import Login from './pages/Login.js';
+import Home from './pages/Home.js';
+
+const Stack = createStackNavigator();
+
+const App = () => {
+  return (
+    <NavigationContainer>
+      <Stack.Navigator initialRouteName="Home">
+        <Stack.Screen name="Login" component={Login} />
+        <Stack.Screen name="Home" component={Home} />
+      </Stack.Navigator>
+    </NavigationContainer>
+  );
+};
+
+export default App;
+
+// MEMBUAT NAVIGASI
+langkah-langkah:
+$ npm install --save react-navigation
+
+

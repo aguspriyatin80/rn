@@ -1,0 +1,61 @@
+{
+"penerima": [
+    {
+        "penerimaImage": "https://res.cloudinary.com/du4xfo1tl/image/upload/v1610642499/fkkjsynzaftirpjrtjrg.svg",
+        "_id": "600074473ae0749cb34dfaae",
+        "nama": "saya",
+        "umur": 50,
+        "alamat": "pasar kentut",
+        "keterangan": "lumpuh",
+        "referensi": "doni 08127891011",
+        "createdAt": "2021-01-14T16:41:43.795Z",
+        "updatedAt": "2021-01-14T16:41:43.795Z"
+    },
+    {
+        "penerimaImage": "https://res.cloudinary.com/du4xfo1tl/image/upload/v1610723342/vrfekfgy5ahqi2lutm5n.svg",
+        "_id": "6001b0122c97a97a53babd37",
+        "nama": "saya",
+        "umur": 50,
+        "alamat": "pasar kentut",
+        "keterangan": "lumpuh",
+        "referensi": "doni 08127891011",
+        "createdAt": "2021-01-15T15:09:06.866Z",
+        "updatedAt": "2021-01-15T15:09:06.866Z"
+    },
+    {
+        "penerimaImage": "https://res.cloudinary.com/du4xfo1tl/image/upload/v1610800382/mpieokamkrofeerelpv6.jpg",
+        "_id": "6002dcfefb0e853b322e7398",
+        "nama": "deni",
+        "umur": 90,
+        "alamat": "medan",
+        "keterangan": "lumpuh",
+        "referensi": "08123456789",
+        "createdAt": "2021-01-16T12:33:02.511Z",
+        "updatedAt": "2021-01-16T12:33:02.511Z"
+    },
+    {
+        "penerimaImage": "https://res.cloudinary.com/du4xfo1tl/image/upload/v1610808081/jyta1ug8fcwgoykv1sqd.jpg",
+        "_id": "6002fb1214ca591269a95654",
+        "nama": "deni",
+        "umur": 90,
+        "alamat": "medan",
+        "keterangan": "lumpuh",
+        "referensi": "08123456789",
+        "createdAt": "2021-01-16T14:41:22.084Z",
+        "updatedAt": "2021-01-16T14:41:22.084Z"
+    },
+    {
+        "penerimaImage": "https://res.cloudinary.com/du4xfo1tl/image/upload/v1610813615/fyg4iujoxmydlrebzspn.svg",
+        "_id": "600310b2498f3e52b4da6ea5",
+        "nama": "karina",
+        "umur": 50,
+        "kecamatan": "ilir barat 2",
+        "rt": "44",
+        "alamat": "pasar kentut",
+        "keterangan": "lumpuh",
+        "referensi": "doni 08127891011",
+        "createdAt": "2021-01-16T16:13:38.463Z",
+        "updatedAt": "2021-01-16T16:13:38.463Z"
+    }
+]
+}

@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Agus Priyatin",
+      "email": "agus@mail.com",
+      "bidang": "BE",
+      "id": 10
+    },
+    {
+      "name": "test",
+      "email": "test@mail.com",
+      "bidang": "FE",
+      "id": 11
+    }
+  ]
+}
